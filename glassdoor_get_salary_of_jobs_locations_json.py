@@ -31,7 +31,7 @@ else:
     raise OSError
 
 # load existing data:
-df_file = "output/glassdoor_salary_by_job_location_list.tsv"
+df_file = "output/glassdoor_salary_by_job_location_list_test.tsv"
 nbins = 10
 headers = ["job", "location", "link",
             "AveragePay", "MinPay", "MaxPay",
