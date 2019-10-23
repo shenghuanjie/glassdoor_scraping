@@ -9,11 +9,11 @@ from random import randint
 import numpy as np
 import IPython
 
-json_file = "job_salary_links.json"
+json_file = "config/job_salary_links.json"
 with open(json_file) as fp:
     grouped_links = json.load(fp)
 
-df_file = "glassdoor_salary_list.tsv"
+df_file = "output/glassdoor_salary_list.tsv"
 if os.path.isfile(df_file):
     df = pd.read_csv(df_file, sep="\t", index_col=False, header=0)
 else:

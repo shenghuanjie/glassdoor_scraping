@@ -16,9 +16,9 @@ website = "https://www.glassdoor.com"
 job_url = "https://www.glassdoor.com/sitedirectory/title-jobs.htm"
 headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"}
 
-login_url = "https://www.glassdoor.com/profile/login_input.htm"
-with open("login_data.json") as fp:
-    login_data = json.load(fp)
+# login_url = "https://www.glassdoor.com/profile/login_input.htm"
+# with open("config/login_data.json") as fp:
+#     login_data = json.load(fp)
 
 # login here doesn't work
 sess = requests.Session()
@@ -46,7 +46,7 @@ categories = soup.find_all('a', href=re.compile(r'/sitedirectory/title-jobs/.*')
 
 job_template = r"/Job/(.*?)-jobs-(.*?).htm"
 salary_template = "/Salaries/{job_name}-salary-{job_srch}.htm"
-set_scraped_file = "job_salary_links.txt"
+set_scraped_file = "config/job_salary_links.txt"
 
 with open(set_scraped_file, "w+"):
     pass
