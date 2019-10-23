@@ -137,7 +137,9 @@ for job in job_location_info["jobs"]:
         except Exception:
             print(job + " in " + location + " histogram failed")
             all_bins = [np.nan] * nbins
-
+        sum_all_bins = np.nansum(all_bins)
+        if sum_all_bins > 0:
+            all_bins = [this_bin / sum_all_bins for this_bin in all_bins]
 
         try:
             additional_pay = browser.find_elements_by_class_name("occMedianModule__AdditionalCompensationStyle__amount")
@@ -178,4 +180,4 @@ for job in job_location_info["jobs"]:
 
 browser.close()
 
-IPython.embed()
+# IPython.embed()
