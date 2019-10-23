@@ -1,0 +1,12 @@
+name: glassdoor
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - requests
+  - bs4
+  - selenium
+  - IPython
