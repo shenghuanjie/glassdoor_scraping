@@ -1,19 +1,1562 @@
 job	location	link	AveragePay	MinPay	MaxPay	AverageAdditional	MinAdditional	MaxAdditional	AveragePayRaw	MinPayRaw	MaxPayRaw	AdditionalCashRaw	AdditionalRangeRaw	HistBin1	HistBin2	HistBin3	HistBin4	HistBin5	HistBin6	HistBin7	HistBin8	HistBin9	HistBin10
-Software Engineer	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-software-engineer-salary-SRCH_IL.0,13_IM759_KO14,31.htm	126069	96000	159000	10237	2377	26129	$126,069	"$96K
+Software Engineer	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-software-engineer-salary-SRCH_IL.0,13_IM759_KO14,31.htm	126069.0	96000.0	159000.0	10237.0	2377.0	26129.0	$126,069	"$96K
 Low"	"$159K
-High"	$10,237	$2,377 - $26,129	0.014306630983839028	0.045567278145515186	0.15765455051338784	0.21904923083272132	0.21420517614208653	0.17303136841938324	0.09806242631457684	0.05012963552529911	0.01864369622971149	0.009350006893479292
-Software Engineer	Boston	https://www.glassdoor.com/Salaries/boston-software-engineer-salary-SRCH_IL.0,6_IM109_KO7,24.htm	98968	76000	127000	8305	1953	21294	$98,968	"$76K
+High"	$10,237	$2,377 - $26,129	0.014306630983839028	0.04556727814551519	0.15765455051338784	0.21904923083272126	0.21420517614208653	0.17303136841938324	0.09806242631457683	0.050129635525299115	0.01864369622971149	0.009350006893479292
+Software Engineer	Boston	https://www.glassdoor.com/Salaries/boston-software-engineer-salary-SRCH_IL.0,6_IM109_KO7,24.htm	98968.0	76000.0	127000.0	8305.0	1953.0	21294.0	$98,968	"$76K
 Low"	"$127K
-High"	$8,305	$1,953 - $21,294	0.03557095296296534	0.06159163623661635	0.14283737101744276	0.2617301019297412	0.22712807380411978	0.14172999095617803	0.07487888832128353	0.030449941788608027	0.01647059679540804	0.007612446187636718
-Data Scientist	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-data-scientist-salary-SRCH_IL.0,13_IM759_KO14,28.htm	142338	114000	180000	13391	4841	31552	$142,338	"$114K
+High"	$8,305	$1,953 - $21,294	0.035570952962965335	0.06159163623661635	0.14283737101744276	0.2617301019297412	0.22712807380411976	0.14172999095617805	0.07487888832128352	0.030449941788608024	0.016470596795408042	0.007612446187636719
+Data Scientist	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-data-scientist-salary-SRCH_IL.0,13_IM759_KO14,28.htm	142338.0	114000.0	180000.0	13391.0	4841.0	31552.0	$142,338	"$114K
 Low"	"$180K
-High"	$13,391	$4,841 - $31,552	0.005174632914218835	0.0206985784874039	0.06338933515260571	0.10996112504163234	0.16300138168791461	0.2341526427965843	0.22768441019197147	0.10219919908556838	0.05692110254799287	0.016817592094107634
-Data Scientist	Boston	https://www.glassdoor.com/Salaries/boston-data-scientist-salary-SRCH_IL.0,6_IM109_KO7,21.htm	112059	89000	144000	11168	3977	25090	$112,059	"$89K
+High"	$13,391	$4,841 - $31,552	0.005174632914218835	0.0206985784874039	0.06338933515260571	0.10996112504163234	0.1630013816879146	0.2341526427965843	0.2276844101919715	0.10219919908556838	0.056921102547992874	0.016817592094107634
+Data Scientist	Boston	https://www.glassdoor.com/Salaries/boston-data-scientist-salary-SRCH_IL.0,6_IM109_KO7,21.htm	112059.0	89000.0	144000.0	11168.0	3977.0	25090.0	$112,059	"$89K
 Low"	"$144K
-High"	$11,168	$3,977 - $25,090	0.015094350806697146	0.06037728775504532	0.06037728775504532	0.07547175403348573	0.13584904178853105	0.16603778189250643	0.1924529054268717	0.14339627492775125	0.1132075348237759	0.03773578079029015
-Human Resource	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-human-resource-salary-SRCH_IL.0,13_IM759_KO14,28.htm	80383	55000	118000	7130	1237	24948	$80,383	"$55K
+High"	$11,168	$3,977 - $25,090	0.015094350806697146	0.06037728775504533	0.06037728775504533	0.07547175403348573	0.13584904178853105	0.16603778189250645	0.1924529054268717	0.14339627492775125	0.1132075348237759	0.03773578079029015
+Human Resource	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-human-resource-salary-SRCH_IL.0,13_IM759_KO14,28.htm	80383.0	55000.0	118000.0	7130.0	1237.0	24948.0	$80,383	"$55K
 Low"	"$118K
-High"	$7,130	$1,237 - $24,948	0.16990290717786583	0.20388357016686706	0.18932037063341792	0.08737858554998439	0.1407767119945377	0.08737858554998439	0.03883492691110416	0.03398066298900123	0.029126195183328128	0.019417483843909098
-Human Resource	Boston	https://www.glassdoor.com/Salaries/boston-human-resource-salary-SRCH_IL.0,6_IM109_KO7,21.htm	64835	44000	96000	5987	1108	20505	$64,835	"$44K
+High"	$7,130	$1,237 - $24,948	0.16990290717786585	0.20388357016686706	0.18932037063341792	0.08737858554998439	0.1407767119945377	0.08737858554998439	0.03883492691110416	0.03398066298900123	0.029126195183328124	0.019417483843909098
+Human Resource	Boston	https://www.glassdoor.com/Salaries/boston-human-resource-salary-SRCH_IL.0,6_IM109_KO7,21.htm	64835.0	44000.0	96000.0	5987.0	1108.0	20505.0	$64,835	"$44K
 Low"	"$96K
-High"	$5,987	$1,108 - $20,505	0.19576721090115626	0.2804233854707709	0.15343926382804168	0.07407411769548959	0.11640206476860417	0.05820103238430208	0.047618975510177075	0.03703691863605206	0.010582000789447916	0.02645503001595834
+High"	$5,987	$1,108 - $20,505	0.19576721090115626	0.2804233854707709	0.15343926382804168	0.07407411769548959	0.11640206476860415	0.058201032384302076	0.04761897551017708	0.03703691863605206	0.010582000789447916	0.02645503001595834
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/sacramento-mail-processing-clerk-salary-SRCH_IL.0,10_IM747_KO11,32.htm	32982.0	25000.0	41000.0	476.0	6.0	2785.0	$32,982	"$25K
+Low"	"$41K
+High"	$476	$6 - $2,785	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/columbus-mail-processing-clerk-salary-SRCH_IL.0,8_IM196_KO9,30.htm	30530.0	24000.0	37000.0	455.0	6.0	2625.0	$30,530	"$24K
+Low"	"$37K
+High"	$455	$6 - $2,625	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Memphis	https://www.glassdoor.com/Salaries/memphis-mail-processing-clerk-salary-SRCH_IL.0,7_IM551_KO8,29.htm	29686.0	23000.0	37000.0	446.0	6.0	2565.0	$29,686	"$23K
+Low"	"$37K
+High"	$446	$6 - $2,565	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Detroit	https://www.glassdoor.com/Salaries/detroit-mail-processing-clerk-salary-SRCH_IL.0,7_IM236_KO8,29.htm	29484.0	23000.0	36000.0	446.0	6.0	2560.0	$29,484	"$23K
+Low"	"$36K
+High"	$446	$6 - $2,560	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cincinnati	https://www.glassdoor.com/Salaries/cincinnati-mail-processing-clerk-salary-SRCH_IL.0,10_IM170_KO11,32.htm	30069.0	23000.0	37000.0	451.0	6.0	2601.0	$30,069	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,601	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Cleveland	https://www.glassdoor.com/Salaries/cleveland-mail-processing-clerk-salary-SRCH_IL.0,9_IM179_KO10,31.htm	29850.0	23000.0	37000.0	450.0	6.0	2590.0	$29,850	"$23K
+Low"	"$37K
+High"	$450	$6 - $2,590	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Salt Lake City	https://www.glassdoor.com/Salaries/salt-lake-city-mail-processing-clerk-salary-SRCH_IL.0,14_IM755_KO15,36.htm	30425.0	23000.0	37000.0	454.0	6.0	2622.0	$30,425	"$23K
+Low"	"$37K
+High"	$454	$6 - $2,622	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	New York	https://www.glassdoor.com/Salaries/new-york-city-mail-processing-clerk-salary-SRCH_IL.0,13_IM615_KO14,35.htm	29112.0	22000.0	36000.0	444.0	6.0	2545.0	$29,112	"$22K
+Low"	"$36K
+High"	$444	$6 - $2,545	0.10386377923481706	0.12463636059070117	0.29081846553010154	0.1661821049394004	0.10386377923481706	0.12463636059070117	0.02077275584696341	0.0029081846553010156	0.02077275584696341	0.04154545353023372
+mail-processing-clerk	Chicago	https://www.glassdoor.com/Salaries/chicago-mail-processing-clerk-salary-SRCH_IL.0,7_IM167_KO8,29.htm	30304.0	23000.0	37000.0	453.0	6.0	2615.0	$30,304	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,615	0.11341074304751757	0.19846905550758276	0.22682174126946217	0.2551744270313415	0.056705371523758784	0.056705371523758784	0.0025517442703134156	0.0025517442703134156	0.0025517442703134156	0.08505805728563817
+mail-processing-clerk	Houston	https://www.glassdoor.com/Salaries/houston-mail-processing-clerk-salary-SRCH_IL.0,7_IM394_KO8,29.htm	32070.0	25000.0	39000.0	469.0	6.0	2729.0	$32,070	"$25K
+Low"	"$39K
+High"	$469	$6 - $2,729	0.24752475247524752	0.1485148514851485	0.24752475247524752	0.0024752475247524753	0.24752475247524752	0.0024752475247524753	0.04950495049504951	0.0024752475247524753	0.0024752475247524753	0.04950495049504951
+mail-processing-clerk	Los Angeles	https://www.glassdoor.com/Salaries/los-angeles-mail-processing-clerk-salary-SRCH_IL.0,11_IM508_KO12,33.htm	30405.0	23000.0	38000.0	454.0	6.0	2623.0	$30,405	"$23K
+Low"	"$38K
+High"	$454	$6 - $2,623	0.08787337176703656	0.1464558246498001	0.1757469485721456	0.20503807249449113	0.0020503807249449115	0.1464558246498001	0.02929112392234552	0.0020503807249449115	0.11716470072745457	0.08787337176703656
+mail-processing-clerk	Atlanta	https://www.glassdoor.com/Salaries/atlanta-mail-processing-clerk-salary-SRCH_IL.0,7_IM52_KO8,29.htm	28554.0	22000.0	35000.0	437.0	6.0	2500.0	$28,554	"$22K
+Low"	"$35K
+High"	$437	$6 - $2,500	0.1357466063348416	0.002262443438914027	0.002262443438914027	0.045248868778280535	0.22624434389140266	0.22624434389140266	0.1357466063348416	0.045248868778280535	0.09049773755656107	0.09049773755656107
+mail-processing-clerk	Dallas	https://www.glassdoor.com/Salaries/dallas-mail-processing-clerk-salary-SRCH_IL.0,6_IM218_KO7,28.htm	29715.0	23000.0	37000.0	448.0	6.0	2576.0	$29,715	"$23K
+Low"	"$37K
+High"	$448	$6 - $2,576	0.08434086196847015	0.5341579022038073	0.1405679252281495	0.08434086196847015	0.05622706325967937	0.028113585045629906	0.005341579022038073	0.005341579022038073	0.005341579022038073	0.05622706325967937
+mail-processing-clerk	San Francisco	https://www.glassdoor.com/Salaries/san-francisco-mail-processing-clerk-salary-SRCH_IL.0,13_IM759_KO14,35.htm	30497.0	25000.0	38000.0	456.0	6.0	2636.0	$30,497	"$25K
+Low"	"$38K
+High"	$456	$6 - $2,636	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Washington	https://www.glassdoor.com/Salaries/washington-dc-mail-processing-clerk-salary-SRCH_IL.0,13_IM911_KO14,35.htm	31262.0	24000.0	39000.0	461.0	5.0	2600.0	$31,262	"$24K
+Low"	"$39K
+High"	$461	$5 - $2,600	0.46928325242577207	0.2559728964518995	0.08532414238954901	0.04266211812309975	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.004692832524257721	0.08532414238954901	0.04266211812309975
+mail-processing-clerk	Boston	https://www.glassdoor.com/Salaries/boston-mail-processing-clerk-salary-SRCH_IL.0,6_IM109_KO7,28.htm	34098.0	26000.0	42000.0	486.0	6.0	2861.0	$34,098	"$26K
+Low"	"$42K
+High"	$486	$6 - $2,861	0.09975062344139651	0.09975062344139651	0.09975062344139651	0.19950124688279303	0.24937655860349128	0.09975062344139651	0.002493765586034913	0.04987531172069826	0.04987531172069826	0.04987531172069826
+mail-processing-clerk	Seattle	https://www.glassdoor.com/Salaries/seattle-mail-processing-clerk-salary-SRCH_IL.0,7_IM781_KO8,29.htm	34475.0	27000.0	42000.0	489.0	6.0	2882.0	$34,475	"$27K
+Low"	"$42K
+High"	$489	$6 - $2,882	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Philadelphia	https://www.glassdoor.com/Salaries/philadelphia-mail-processing-clerk-salary-SRCH_IL.0,12_IM676_KO13,34.htm	28261.0	22000.0	35000.0	435.0	6.0	2480.0	$28,261	"$22K
+Low"	"$35K
+High"	$435	$6 - $2,480	0.14895724609951339	0.049652415366504464	0.049652415366504464	0.0034756725513278635	0.049652415366504464	0.14895724609951339	0.34756725513278636	0.14895724609951339	0.0034756725513278635	0.049652415366504464
+mail-processing-clerk	San Diego	https://www.glassdoor.com/Salaries/san-diego-mail-processing-clerk-salary-SRCH_IL.0,9_IM758_KO10,31.htm	33398.0	26000.0	41000.0	479.0	6.0	2809.0	$33,398	"$26K
+Low"	"$41K
+High"	$479	$6 - $2,809	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Denver	https://www.glassdoor.com/Salaries/denver-mail-processing-clerk-salary-SRCH_IL.0,6_IM234_KO7,28.htm	32305.0	25000.0	40000.0	471.0	6.0	2745.0	$32,305	"$25K
+Low"	"$40K
+High"	$471	$6 - $2,745	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Phoenix	https://www.glassdoor.com/Salaries/phoenix-mail-processing-clerk-salary-SRCH_IL.0,7_IM678_KO8,29.htm	30879.0	24000.0	38000.0	459.0	6.0	2657.0	$30,879	"$24K
+Low"	"$38K
+High"	$459	$6 - $2,657	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Austin	https://www.glassdoor.com/Salaries/austin-mail-processing-clerk-salary-SRCH_IL.0,6_IM60_KO7,28.htm	31441.0	24000.0	39000.0	463.0	6.0	2685.0	$31,441	"$24K
+Low"	"$39K
+High"	$463	$6 - $2,685	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Charlotte	https://www.glassdoor.com/Salaries/charlotte-mail-processing-clerk-salary-SRCH_IL.0,9_IM162_KO10,31.htm	30688.0	24000.0	38000.0	457.0	6.0	2640.0	$30,688	"$24K
+Low"	"$38K
+High"	$457	$6 - $2,640	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Orlando	https://www.glassdoor.com/Salaries/orlando-mail-processing-clerk-salary-SRCH_IL.0,7_IM645_KO8,29.htm	29802.0	23000.0	37000.0	449.0	6.0	2587.0	$29,802	"$23K
+Low"	"$37K
+High"	$449	$6 - $2,587	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Miami	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Antonio	https://www.glassdoor.com/Salaries/san-antonio-mail-processing-clerk-salary-SRCH_IL.0,11_IM757_KO12,33.htm	29848.0	23000.0	37000.0	539.0	5.0	2514.0	$29,848	"$23K
+Low"	"$37K
+High"	$539	$5 - $2,514	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Tampa	https://www.glassdoor.com/Salaries/tampa-mail-processing-clerk-salary-SRCH_IL.0,5_IM850_KO6,27.htm	29983.0	23000.0	37000.0	451.0	6.0	2596.0	$29,983	"$23K
+Low"	"$37K
+High"	$451	$6 - $2,596	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Las Vegas	https://www.glassdoor.com/Salaries/las-vegas-mail-processing-clerk-salary-SRCH_IL.0,9_IM477_KO10,31.htm	30813.0	24000.0	38000.0	458.0	6.0	2651.0	$30,813	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Saint Louis	https://www.glassdoor.com/Salaries/st-louis-mail-processing-clerk-salary-SRCH_IL.0,8_IM823_KO9,30.htm	30421.0	23000.0	37000.0	453.0	6.0	2616.0	$30,421	"$23K
+Low"	"$37K
+High"	$453	$6 - $2,616	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	San Jose	https://www.glassdoor.com/Salaries/san-jose-mail-processing-clerk-salary-SRCH_IL.0,8_IM761_KO9,30.htm	38458.0	30000.0	47000.0	523.0	6.0	3137.0	$38,458	"$30K
+Low"	"$47K
+High"	$523	$6 - $3,137	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Raleigh	https://www.glassdoor.com/Salaries/raleigh-mail-processing-clerk-salary-SRCH_IL.0,7_IM714_KO8,29.htm	30639.0	24000.0	38000.0	456.0	6.0	2635.0	$30,639	"$24K
+Low"	"$38K
+High"	$456	$6 - $2,635	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Minneapolis	https://www.glassdoor.com/Salaries/minneapolis-mail-processing-clerk-salary-SRCH_IL.0,11_IM567_KO12,33.htm	32166.0	25000.0	40000.0	469.0	6.0	2731.0	$32,166	"$25K
+Low"	"$40K
+High"	$469	$6 - $2,731	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Pittsburgh	https://www.glassdoor.com/Salaries/pittsburgh-mail-processing-clerk-salary-SRCH_IL.0,10_IM684_KO11,32.htm	30113.0	23000.0	37000.0	452.0	6.0	2603.0	$30,113	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,603	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Portland	https://www.glassdoor.com/Salaries/portland-mail-processing-clerk-salary-SRCH_IL.0,8_IM700_KO9,30.htm	32665.0	25000.0	40000.0	473.0	6.0	2762.0	$32,665	"$25K
+Low"	"$40K
+High"	$473	$6 - $2,762	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Indianapolis	https://www.glassdoor.com/Salaries/indianapolis-mail-processing-clerk-salary-SRCH_IL.0,12_IM407_KO13,34.htm	30209.0	23000.0	37000.0	452.0	6.0	2607.0	$30,209	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,607	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Jacksonville	https://www.glassdoor.com/Salaries/jacksonville-mail-processing-clerk-salary-SRCH_IL.0,12_IM416_KO13,34.htm	30241.0	23000.0	37000.0	452.0	6.0	2609.0	$30,241	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,609	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Nashville	https://www.glassdoor.com/Salaries/nashville-mail-processing-clerk-salary-SRCH_IL.0,9_IM604_KO10,31.htm	30244.0	23000.0	37000.0	452.0	6.0	2608.0	$30,244	"$23K
+Low"	"$37K
+High"	$452	$6 - $2,608	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Baltimore	https://www.glassdoor.com/Salaries/baltimore-mail-processing-clerk-salary-SRCH_IL.0,9_IM63_KO10,31.htm	27993.0	22000.0	34000.0	433.0	6.0	2464.0	$27,993	"$22K
+Low"	"$34K
+High"	$433	$6 - $2,464	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Fort Lauderdale	https://www.glassdoor.com/Salaries/miami-mail-processing-clerk-salary-SRCH_IL.0,5_IM558_KO6,27.htm	30825.0	24000.0	38000.0	458.0	6.0	2651.0	$30,825	"$24K
+Low"	"$38K
+High"	$458	$6 - $2,651	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Kansas City	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Sacramento	https://www.glassdoor.com/Salaries/kansas-city-mail-processing-clerk-salary-SRCH_IL.0,11_IM437_KO12,33.htm	30366.0	23000.0	37000.0	436.0	5.0	2540.0	$30,366	"$23K
+Low"	"$37K
+High"	$436	$5 - $2,540	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+mail-processing-clerk	Columbus	https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=mail-processing-clerk&sc.keyword=mail-processing-clerk&locT=&locId=&jobType=							NaN	NaN	NaN	NaN	NaN - NaN										

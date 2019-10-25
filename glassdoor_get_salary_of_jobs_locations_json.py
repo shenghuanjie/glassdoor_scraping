@@ -31,7 +31,7 @@ else:
     raise OSError
 
 # load existing data:
-df_file = "output/glassdoor_salary_by_job_location_list_test.tsv"
+df_file = "output/glassdoor_salary_by_job_location_list.tsv"
 nbins = 10
 headers = ["job", "location", "link",
             "AveragePay", "MinPay", "MaxPay",
@@ -49,6 +49,7 @@ icity = len(df.index)
 chrome_options = webdriver.ChromeOptions()
 # chrome_options.add_argument("--incognito")
 chrome_options.add_argument("--start-maximized")
+# chrome_options.add_argument("--start-maximized")
 
 # log in first
 browser = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
@@ -63,9 +64,13 @@ time.sleep(5)
 
 for job in job_location_info["jobs"]:
     for location in job_location_info["locations"]:
-        failed = True
-        while failed:
+        if job in df["job"].values and location in df["location"].values:
+            print(job + " at " + location + " has already been fetched in the data frame.")
+            continue
+        failed = 10
+        while failed > 0:
             browser.get(last_url)
+            time.sleep(randint(5, 10))
             try:
                 job_box = browser.find_element_by_id("sc.keyword")
                 job_box.send_keys(Keys.CONTROL, "a")
@@ -80,18 +85,22 @@ for job in job_location_info["jobs"]:
                 failed = False
 
             except Exception:
-                print(job + " in " + location + " has filed")
-                print("attemp to log in again")
+                print(job + " in " + location + " has failed")
+                print("attempt to log in again")
                 browser.get(login_url)
-                username_box = browser.find_element_by_id("userEmail")
-                username_box.send_keys(login_data["username"])
-                password_box = browser.find_element_by_id("userPassword")
-                password_box.send_keys(login_data["password"])
-                submit_button = browser.find_element_by_xpath("//button[@type='submit']")
-                submit_button.click()
-
-        time.sleep(randint(5, 10))
-
+                time.sleep(randint(30, 60))
+                failed -= 1
+                try:
+                    username_box = browser.find_element_by_id("userEmail")
+                    username_box.send_keys(login_data["username"])
+                    password_box = browser.find_element_by_id("userPassword")
+                    password_box.send_keys(login_data["password"])
+                    submit_button = browser.find_element_by_xpath("//button[@type='submit']")
+                    submit_button.click()
+                except Exception:
+                    print("might be still logged in. Retrying...")
+                if failed == 0:
+                    IPython.embed()
         try:
             average_salary = browser.find_element_by_xpath("//span[@data-test='AveragePay']").text
             average_salary_int = int(''.join([n for n in average_salary if n.isdigit()]))
