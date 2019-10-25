@@ -33,7 +33,7 @@ else:
 # load existing data:
 df_file = "output/glassdoor_salary_by_job_location_list.tsv"
 nbins = 10
-headers = ["job", "location", "link",
+headers = ["index", "job", "location", "link",
             "AveragePay", "MinPay", "MaxPay",
             "AverageAdditional", "MinAdditional", "MaxAdditional",
             "AveragePayRaw", "MinPayRaw", "MaxPayRaw",
@@ -64,7 +64,7 @@ time.sleep(5)
 
 for job in job_location_info["jobs"]:
     for location in job_location_info["locations"]:
-        if job in df["job"].values and location in df["location"].values:
+        if job + " at " + location in df["index"].values:
             print(job + " at " + location + " has already been fetched in the data frame.")
             continue
         failed = 10
@@ -179,7 +179,7 @@ for job in job_location_info["jobs"]:
             additional_max_int = np.nan
 
         last_url = browser.current_url
-        scraped_data = [job, location, browser.current_url,
+        scraped_data = [job + " at " + location, job, location, browser.current_url,
                         average_salary_int, min_salary_int, max_salary_int,
                         additional_average_int, additional_min_int, additional_max_int,
                         average_salary, min_salary, max_salary,
